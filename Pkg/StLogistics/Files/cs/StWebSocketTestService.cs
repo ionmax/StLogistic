@@ -65,7 +65,7 @@ namespace StLogisticDriverServiceNamespace
 			if (processSchema.Parameters.ExistsByName("Message")) {
 				process.SetPropertyValue("Message", "Test message from back-end");
 			}
-			///var bar = new Barcode128();
+			var bar = new Barcode128();
 			process.Execute(UserConnection);
 			var parameters = new Dictionary<string, string>();
 			parameters["Message"] = "Test message from back-end";
