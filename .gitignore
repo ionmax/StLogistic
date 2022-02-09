@@ -1,0 +1,53 @@
+#Exclude all files and folders
+*/*
+
+#Include projects packages
+!Pkg/StLogistics
+
+#Include projects submodules
+
+
+#Include source files
+!Src/ThirdPartyPackages
+
+#Ignore temporary folders
+bin/
+debug/
+obj/
+release/
+packages/
+TestResults/
+node_modules/
+.scannerwork/
+.sonarqube/
+.vs/
+.vscode/
+
+#Ignore Terrasoft solution
+/Terrasoft.*
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+package-lock.json
+launchSettings.json
