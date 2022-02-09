@@ -17,6 +17,9 @@ node_modules/
 .vs/
 .vscode/
 
+#Ignore Workspace Console logs
+Pkg/StLogistics/Logs/
+
 #Ignore Terrasoft solution
 /Terrasoft.*
 
