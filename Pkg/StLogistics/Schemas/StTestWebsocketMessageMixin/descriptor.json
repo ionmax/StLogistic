@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "78849c3c-5999-46bb-ad4a-a8c9449cd580",
+    "Name": "StTestWebsocketMessageMixin",
+    "ModifiedOnUtc": "\/Date(1641905530000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "TestWebsocketMessageMixin"
+  }
+}

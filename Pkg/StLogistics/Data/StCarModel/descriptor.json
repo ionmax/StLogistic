@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "22a68346-d77e-9ce2-9e84-1ac632ff718d",
+    "Name": "StCarModel",
+    "ModifiedOnUtc": "\/Date(1637074820000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "6d0a23a6-1fc7-4fca-9c14-7238124b4331",
+      "Name": "StCarModel"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "1d7cbc58-727a-fe18-c4c2-57d78e3cc706",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "StFuelPerKilometer",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "5573d478-9837-155f-fd28-8222cd10f838",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "StCarBrand",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

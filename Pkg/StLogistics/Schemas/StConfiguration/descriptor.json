@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "445115e1-5314-4dbd-a024-f10b4498db64",
+    "Name": "StConfiguration",
+    "ModifiedOnUtc": "\/Date(1642156603000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Configuration"
+  }
+}

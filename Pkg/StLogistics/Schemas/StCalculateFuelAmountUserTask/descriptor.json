@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+    "Name": "StCalculateFuelAmountUserTask",
+    "ModifiedOnUtc": "\/Date(1637164918000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "CalculateFuelAmountUserTask"
+  }
+}

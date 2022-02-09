@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Update instance" />
+			<Item Name="BaseElements.ScriptTask2.Caption" Value="Create instance" />
+			<Item Name="Caption" Value="Business process 1" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.RecordId.Caption" Value="RecordId" />
+			<Item Name="Parameters.RecordId.DisplayValue" Value="[#Lookup.Contact.Andrew Baker (sample).c4ed336c-3e9b-40fe-8b82-5632476472b4#]" />
+		</Items>
+	</Group>
+</Resources>

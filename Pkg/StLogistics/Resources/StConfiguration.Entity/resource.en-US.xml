@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Configuration" />
+			<Item Name="Columns.StInstalled.Caption" Value="Installed" />
+			<Item Name="Columns.StManufacturer.Caption" Value="Manufacturer" />
+			<Item Name="Columns.StName.Caption" Value="Name" />
+			<Item Name="Columns.StTransport.Caption" Value="Transport" />
+		</Items>
+	</Group>
+</Resources>

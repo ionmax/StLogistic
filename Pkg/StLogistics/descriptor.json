@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "7494d9ed-15fd-4a2b-99b7-5651fc414af9",
+    "PackageVersion": "7.8.0",
+    "Name": "StLogistics",
+    "ModifiedOnUtc": "\/Date(1637073946000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

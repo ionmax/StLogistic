@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Transport" />
+			<Item Name="Columns.StCarBrand.Caption" Value="Car brand" />
+			<Item Name="Columns.StCarModel.Caption" Value="Car model" />
+			<Item Name="Columns.StMainDriver.Caption" Value="Main driver" />
+			<Item Name="Columns.StMaxWeight.Caption" Value="Max weight" />
+			<Item Name="Columns.StMileage.Caption" Value="Mileage" />
+			<Item Name="Columns.StName.Caption" Value="Name" />
+			<Item Name="Columns.StNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.StNumber.Caption" Value="Number" />
+			<Item Name="Columns.StOwner.Caption" Value="Owner" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

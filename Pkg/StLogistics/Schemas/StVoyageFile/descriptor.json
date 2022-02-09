@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "42f27121-a771-4000-ba39-cae91891b296",
+    "Name": "StVoyageFile",
+    "ModifiedOnUtc": "\/Date(1637078517000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Voyage"
+  }
+}

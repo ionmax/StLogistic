@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8ce9facf-5529-436f-86c2-207812768e97",
+    "Name": "StCarBrand",
+    "ModifiedOnUtc": "\/Date(1637226178000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Car brand"
+  }
+}

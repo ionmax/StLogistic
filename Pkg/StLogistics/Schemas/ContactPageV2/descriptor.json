@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f31014b0-abfb-45ed-b715-b08d2803c3e6",
+    "Name": "ContactPageV2",
+    "ModifiedOnUtc": "\/Date(1643898775000)\/",
+    "Parent": {
+      "UId": "8737e39c-ac08-4903-acd0-11570570691d",
+      "Name": "ContactPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Display schema - Contact card",
+    "DependsOn": []
+  }
+}

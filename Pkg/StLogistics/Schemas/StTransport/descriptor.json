@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+    "Name": "StTransport",
+    "ModifiedOnUtc": "\/Date(1637226212000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Transport"
+  }
+}

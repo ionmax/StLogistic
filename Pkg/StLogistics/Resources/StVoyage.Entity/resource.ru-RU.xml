@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Voyage" />
+			<Item Name="Columns.StDistance.Caption" Value="Distance" />
+			<Item Name="Columns.StDriver.Caption" Value="Driver" />
+			<Item Name="Columns.StDueDate.Caption" Value="Due date" />
+			<Item Name="Columns.StFuelAmount.Caption" Value="Fuel Amount" />
+			<Item Name="Columns.StNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.StNumber.Caption" Value="Number" />
+			<Item Name="Columns.StStartDate.Caption" Value="Start date" />
+			<Item Name="Columns.StTransport.Caption" Value="Transport" />
+			<Item Name="Columns.StWeight.Caption" Value="Weight" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow1_7c92420a451a42c984fc77979f820352.Caption" Value="Code is empty" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask3_7d0c86e2d0f24b429b48f725f37da50a.Caption" Value="Get entity schema to generate number" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask4_2b9fee5c7cec489aab172bfab05675eb.Caption" Value="Save number to entity column" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage3_a0ab84bf6b8d4330bcdd54af9a7e87a6.Caption" Value="Before Record Adding" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Caption" Value="Generate number" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.Caption" Value="Voyage" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_d10ded418a6b465a9ba3e84999a2c45d.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_d10ded418a6b465a9ba3e84999a2c45d.Lanes.Lane_403af850127e4b8683e00c0b646e5765.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+		</Items>
+	</Group>
+</Resources>

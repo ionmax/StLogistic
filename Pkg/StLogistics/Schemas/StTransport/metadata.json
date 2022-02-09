@@ -1,0 +1,138 @@
+= MetaData.Schema.UId "371ad7f6-8e9f-434c-92bc-b39832c84b4e"
+= MetaData.Schema.A2 "StTransport"
+= MetaData.Schema.A5 "bb4f7255-36c0-4d81-a577-b04104f06f24"
+= MetaData.Schema.B6 "7494d9ed-15fd-4a2b-99b7-5651fc414af9"
+= MetaData.Schema.B8 "7.18.4.1532"
+= MetaData.Schema.EG1.UId "035f5443-18a7-4551-8790-95ae5f304b1a"
+= MetaData.Schema.EG1.A2 "StEntity_953ed50EventsProcess"
+= MetaData.Schema.EG1.A5 "bb4f7255-36c0-4d81-a577-b04104f06f24"
++ MetaData.Schema.EG1.B8 "7.18.4.1532"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "4c90cf0f-b202-d771-4d9e-46b0ef5d311c"
++ MetaData.Schema.D2 {
+  "UId": "ca1521b2-cf8c-f535-2cf3-c797a0bbecd5",
+  "A2": "StMainDriver",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "StMainDriverId",
+  "E18": "StMainDriverName"
+}
++ MetaData.Schema.D2 {
+  "UId": "e717a565-d9fb-b615-de9d-45f6825da212",
+  "A2": "StMaxWeight",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "07ba84ce-0bf7-44b4-9f2c-7b15032eb98c"
+}
++ MetaData.Schema.D2 {
+  "UId": "c07acc0e-47d5-c13a-30d1-f5b3b1e0f888",
+  "A2": "StMileage",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "07ba84ce-0bf7-44b4-9f2c-7b15032eb98c"
+}
++ MetaData.Schema.D2 {
+  "UId": "78b884ab-8163-2527-c37c-19b9f35ad389",
+  "A2": "StOwner",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E2": 1,
+  "E6": true,
+  "E17": "StOwnerId",
+  "E18": "StOwnerName"
+}
++ MetaData.Schema.D2 {
+  "UId": "6812bb26-24ba-93f9-2b45-fba96289e03e",
+  "A2": "StCarModel",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "6d0a23a6-1fc7-4fca-9c14-7238124b4331",
+  "E2": 1,
+  "E6": true,
+  "E17": "StCarModelId",
+  "E18": "StCarModelName"
+}
++ MetaData.Schema.D2 {
+  "UId": "7b952854-de97-7c9f-bc50-169aee6fe3ed",
+  "A2": "StCarBrand",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "8ce9facf-5529-436f-86c2-207812768e97",
+  "E2": 1,
+  "E6": true,
+  "E17": "StCarBrandId",
+  "E18": "StCarBrandName"
+}
++ MetaData.Schema.D2 {
+  "UId": "9fdc83f6-af44-5921-13a8-cbce9e80fb44",
+  "A2": "StNumber",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "4c90cf0f-b202-d771-4d9e-46b0ef5d311c",
+  "A2": "StName",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "6c522def-0d00-4173-9497-ef73749e6558",
+  "A2": "StNotes",
+  "A3": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A4": "371ad7f6-8e9f-434c-92bc-b39832c84b4e",
+  "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","ca1521b2-cf8c-f535-2cf3-c797a0bbecd5","e717a565-d9fb-b615-de9d-45f6825da212","c07acc0e-47d5-c13a-30d1-f5b3b1e0f888","78b884ab-8163-2527-c37c-19b9f35ad389","6812bb26-24ba-93f9-2b45-fba96289e03e","7b952854-de97-7c9f-bc50-169aee6fe3ed","9fdc83f6-af44-5921-13a8-cbce9e80fb44","4c90cf0f-b202-d771-4d9e-46b0ef5d311c","6c522def-0d00-4173-9497-ef73749e6558"]
+= MetaData.Schema.D20.A2 "StTransportEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

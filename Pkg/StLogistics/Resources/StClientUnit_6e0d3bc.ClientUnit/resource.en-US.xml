@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Test pre-configured page" />
+			<Item Name="LocalizableStrings.TestButtonButtonCaption.Value" Value="Test Button" />
+			<Item Name="Parameters.0ca1ecf8-0713-4295-91f9-ba20cac55207.Caption" Value="Second name" />
+			<Item Name="Parameters.4f8e5e15-af62-4c9c-8098-9261d714ddaf.Caption" Value="Account" />
+			<Item Name="Parameters.81ea7bbd-62ef-4052-9b09-fd8ea2a0e628.Caption" Value="Age" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.0e1e3fe0-bb97-44b9-94f1-fb9505df4312.Caption" Value="Test Button" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Close" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Save" />
+			<Item Name="Parameters.d58e01ca-308d-4ba8-b130-05c8350ac886.Caption" Value="First name" />
+		</Items>
+	</Group>
+</Resources>

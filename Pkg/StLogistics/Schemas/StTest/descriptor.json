@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "10ab7a8c-a2a2-467c-bff6-20b2be97eeab",
+    "Name": "StTest",
+    "ModifiedOnUtc": "\/Date(1637328582000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "StTest"
+  }
+}

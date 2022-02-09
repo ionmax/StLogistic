@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f94e033-f3b7-4caf-bad4-180a6e582386",
+    "Name": "StVoyageTag",
+    "ModifiedOnUtc": "\/Date(1637078521000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Voyage"
+  }
+}

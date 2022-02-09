@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "819f651f-748b-4e5a-9a22-52e471de44e4",
+    "Name": "StTransportSection",
+    "ModifiedOnUtc": "\/Date(1642412476000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Transport\""
+  }
+}

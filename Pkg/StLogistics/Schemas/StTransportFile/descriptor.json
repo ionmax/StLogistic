@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "14498530-3ca5-46e0-b268-5568d96b03ab",
+    "Name": "StTransportFile",
+    "ModifiedOnUtc": "\/Date(1637075429000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Transport"
+  }
+}

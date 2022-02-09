@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Transport&quot;" />
+			<Item Name="LocalizableStrings.MaxWeightGreaterThanZero.Value" Value="Max weight must be greater than zero" />
+			<Item Name="LocalizableStrings.MileageGreaterThanZero.Value" Value="Mileage must be greater than zero" />
+			<Item Name="LocalizableStrings.StVoyageDetailDetailCaptionOnPage.Value" Value="Voyage in transport" />
+		</Items>
+	</Group>
+</Resources>

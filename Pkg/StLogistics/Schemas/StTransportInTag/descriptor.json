@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f6baefb-87a7-40d8-851b-5f8c4d1d644f",
+    "Name": "StTransportInTag",
+    "ModifiedOnUtc": "\/Date(1637075435000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Transport"
+  }
+}

@@ -1,0 +1,33 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7d886567-eca3-41fa-afaa-7a8db4bf1d10"
+        },
+        {
+          "SchemaColumnUId": "a215f575-7283-41bd-8852-b2415a935051",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "78ed4015-b81f-49fc-9d50-847cf8df5e6c",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "fb750eb9-35b6-463e-b3b8-1a69ec871e43",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "551ce105-25dc-4a76-b318-cf37635e88c3",
+          "Value": "{\"DFCalculationIndicator4f0d6802-2f30-49e9-add0-545e1a6bedf9\":{\"widgetType\":\"DFCalculationIndicator\",\"parameters\":{\"caption\":\"Процент загруженности транспорта в рейсе\",\"sectionBindingColumn\":\"Id\",\"sectionId\":\"1aa5ef0e-8105-4709-a89d-4289df5ea215\",\"entitySchemaName\":\"StVoyage\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"StVoyage\\\",\\\"key\\\":\\\"\\\"}\",\"aggregationType\":2,\"columnName\":\"StWeight\",\"format\":{\"textDecorator\":\"{0}%\",\"type\":5,\"decimalPrecision\":2,\"thousandSeparator\":\",\",\"dateFormat\":\"n/j/Y\"},\"style\":\"widget-blue\",\"fontStyle\":\"default-indicator-font-size\",\"entitySchemaNameB\":\"StTransport\",\"entitySchemaNameC\":null,\"entitySchemaNameD\":null,\"formula\":\"80fab7c6-b3c1-46be-b25d-0dd76e1ad81c\",\"aggregationTypeB\":2,\"aggregationTypeC\":1,\"aggregationTypeD\":1,\"aggregationColumnB\":\"StMaxWeight\",\"aggregationColumnC\":null,\"aggregationColumnD\":null,\"sectionBindingColumnC\":null,\"sectionBindingColumnD\":null,\"filterDataB\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"StTransport\\\",\\\"key\\\":\\\"\\\"}\",\"filterDataC\":null,\"filterDataD\":null}}}"
+        },
+        {
+          "SchemaColumnUId": "9eedf8ab-d02e-4a4a-9f9d-19ede1c873bc",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}

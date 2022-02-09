@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8616ef27-2e16-423d-b230-13cf063c9353",
+    "Name": "StVoyageDetail",
+    "ModifiedOnUtc": "\/Date(1642157468000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Voyage in transport\""
+  }
+}

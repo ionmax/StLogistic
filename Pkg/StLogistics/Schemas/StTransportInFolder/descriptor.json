@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "68b73be3-df48-4b4b-9b81-9b4202310573",
+    "Name": "StTransportInFolder",
+    "ModifiedOnUtc": "\/Date(1637075432000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Transport в группе"
+  }
+}

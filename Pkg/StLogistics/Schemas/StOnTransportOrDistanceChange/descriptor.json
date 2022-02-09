@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "4f90b669-cc2d-4b7c-b1fd-9580eec18712",
+    "Name": "StOnTransportOrDistanceChange",
+    "ModifiedOnUtc": "\/Date(1637166312000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Process on transport or distance change in voyage"
+  }
+}

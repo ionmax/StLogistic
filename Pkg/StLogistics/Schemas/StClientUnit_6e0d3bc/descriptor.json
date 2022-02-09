@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "71b5da4d-1017-439d-b874-f1b3a6faaf97",
+    "Name": "StClientUnit_6e0d3bc",
+    "ModifiedOnUtc": "\/Date(1638267268000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Test pre-configured page"
+  }
+}

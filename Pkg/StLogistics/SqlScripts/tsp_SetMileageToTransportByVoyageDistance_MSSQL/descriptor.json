@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "63a53ea3-0121-756a-0566-342fe9722d45",
+    "Name": "tsp_SetMileageToTransportByVoyageDistance_MSSQL",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1637163666000)\/",
+    "DependsOn": []
+  }
+}

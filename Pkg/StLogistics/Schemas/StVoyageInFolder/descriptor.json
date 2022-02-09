@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1c73f05d-8d27-42a8-bade-0d283fe7b349",
+    "Name": "StVoyageInFolder",
+    "ModifiedOnUtc": "\/Date(1637078520000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Voyage в группе"
+  }
+}

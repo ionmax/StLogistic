@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Voyage&quot;" />
+			<Item Name="LocalizableStrings.DistanceGreaterThanZero.Value" Value="Distance must be greater than zero" />
+			<Item Name="LocalizableStrings.DueDateGreaterThanStartDate.Value" Value="Due date must be greater than start date" />
+			<Item Name="LocalizableStrings.FuelAmountGreaterThanZero.Value" Value="Fuel amount must be greater than zero" />
+			<Item Name="LocalizableStrings.WeightGreaterThanZero.Value" Value="Weight must be greater than zero" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,51 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+      "A2": "StCalculateFuelAmountUserTask",
+      "A5": "bb4f7255-36c0-4d81-a577-b04104f06f24",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "7494d9ed-15fd-4a2b-99b7-5651fc414af9",
+      "B8": "7.18.4.1532",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "48c3ab00-b856-9b2b-b2a2-63e33b7a5d21",
+          "A2": "TransportId",
+          "A3": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+          "A4": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+          "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "6d1a5d24-3c4b-5175-7ade-5196179b46c5",
+          "A2": "Distance",
+          "A3": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+          "A4": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+          "L1": "07ba84ce-0bf7-44b4-9f2c-7b15032eb98c",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "4003e6d4-1ab7-335f-5163-66db0bfc03b9",
+          "A2": "FuelAmount",
+          "A3": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+          "A4": "617c7d1e-d151-4d49-aef6-ba036c6d4c00",
+          "L1": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+          "L8": {},
+          "L11": false
+        }
+      ],
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}
