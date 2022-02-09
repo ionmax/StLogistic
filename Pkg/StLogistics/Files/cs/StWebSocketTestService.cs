@@ -22,7 +22,7 @@ namespace StLogisticDriverServiceNamespace
 	[AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Required)]
 	public class StWebSocketTestService : BaseService
 	{
-		private static readonly ILog _log = LogManager.GetLogger("MyTestLogger");
+		private static readonly ILog _log = LogManager.GetLogger("StLogisticJsonLogger");
 		private const string _messageSender = "ShowInformationWindowTest";
 
 		[OperationContract]
@@ -30,9 +30,12 @@ namespace StLogisticDriverServiceNamespace
 		RequestFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
 		public string ShowInformationWindow(TestDTO testData)
 		{
-			_log.InfoFormat($"MyTestLogger: Parameters - {testData.TestString} - \"{testData.TestGuid}\" - {testData.TestDate} - {testData.TestNumber}");
-			_log.Warn("Test warn");
-			_log.Error("Test error");
+			_log.Info( new
+			{
+				message = $"MyTestLogger: Parameters - {testData.TestString} - \"{testData.TestGuid}\" - {testData.TestDate} - {testData.TestNumber}"
+            });
+			_log.Warn(new { message = "Test warn" });
+			_log.Error(new Exception("Test Error"));
 
 			var messageData = new
 			{

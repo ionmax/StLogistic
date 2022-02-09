@@ -2,13 +2,7 @@
 */*
 
 #Include projects packages
-!Pkg/StLogistics
-
-#Include projects submodules
-
-
-#Include source files
-!Src/ThirdPartyPackages
+!Pkg/StLogistics/
 
 #Ignore temporary folders
 bin/
