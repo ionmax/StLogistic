@@ -14,7 +14,7 @@
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
           "UId": "99932821-ed66-4ffd-b48e-532fda7cef0f",
-          "A2": "Message",
+          "A2": "TestMessage",
           "A3": "c649767c-30f9-4e33-8729-078fffa9b824",
           "A4": "c649767c-30f9-4e33-8729-078fffa9b824",
           "L1": "5ca35f10-a101-4c67-a96a-383da6afacfc",
@@ -51,6 +51,7 @@
           "A5": "7494d9ed-15fd-4a2b-99b7-5651fc414af9",
           "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
           "BL8": "c649767c-30f9-4e33-8729-078fffa9b824",
+          "BM1": 0,
           "BM4": [
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
@@ -85,7 +86,8 @@
           "BL8": "c649767c-30f9-4e33-8729-078fffa9b824",
           "BN2": "31;31",
           "BO3": true,
-          "FC1": []
+          "FC1": [],
+          "ED1": false
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
@@ -117,7 +119,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "throw new Exception(Get<string>(\"Message\"));\nreturn true;",
+          "CH1": "throw new Exception(Get<string>(\"TestMessage\"));\nreturn true;",
           "CH2": true
         },
         {

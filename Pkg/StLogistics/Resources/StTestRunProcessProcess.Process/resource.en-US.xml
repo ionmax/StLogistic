@@ -7,7 +7,7 @@
 			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
 			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
-			<Item Name="Parameters.Message.Caption" Value="Message" />
+			<Item Name="Parameters.TestMessage.Caption" Value="TestMessage" />
 		</Items>
 	</Group>
 </Resources>

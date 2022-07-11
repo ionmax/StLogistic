@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "c649767c-30f9-4e33-8729-078fffa9b824",
     "Name": "StTestRunProcessProcess",
-    "ModifiedOnUtc": "\/Date(1642061443000)\/",
+    "ModifiedOnUtc": "\/Date(1656248714000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Run this process from front-end and back-end"
   }

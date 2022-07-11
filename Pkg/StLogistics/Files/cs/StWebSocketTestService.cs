@@ -65,14 +65,15 @@ namespace StLogisticDriverServiceNamespace
 			var processSchema = manager.GetInstanceByName("StTestRunProcessProcess");
 			Process process = processSchema.CreateProcess(UserConnection);
 			//extention method from Terrasoft.Common (weird)
-			if (processSchema.Parameters.ExistsByName("Message")) {
-				process.SetPropertyValue("Message", "Test message from back-end");
+			if (processSchema.Parameters.ExistsByName("TestMessage")) {
+				process.SetPropertyValue("TestMessage", "Test message from back-end");
 			}
-			var bar = new Barcode128();
+
 			process.Execute(UserConnection);
-			var parameters = new Dictionary<string, string>();
-			parameters["Message"] = "Test message from back-end";
-			userConnection.ProcessEngine.ProcessExecutor.Execute("StTestRunProcessProcess", parameters);
+
+			/* var parameters = new Dictionary<string, string>();
+			parameters["TestMessage"] = "Test message from back-end";
+			userConnection.ProcessEngine.ProcessExecutor.Execute("StTestRunProcessProcess", parameters);*/
 
 			/*
 			var flowEngine = new Terrasoft.Core.Process.FlowEngine(userConnection);
