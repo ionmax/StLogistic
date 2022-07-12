@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CaseSectionTitle.Value" Value="เคส" />
+			<Item Name="LocalizableStrings.DashboardSectionTitle.Value" Value="แดชบอร์ด" />
+			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="ใบแจ้งหนี้" />
+			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="ฟีด" />
+		</Items>
+	</Group>
+</Resources>

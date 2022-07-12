@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CaseSectionTitle.Value" Value="الحالات" />
+			<Item Name="LocalizableStrings.DashboardSectionTitle.Value" Value="لوحات القيادة" />
+			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="فواتير" />
+			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="القيادات" />
+			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="تغذية" />
+		</Items>
+	</Group>
+</Resources>

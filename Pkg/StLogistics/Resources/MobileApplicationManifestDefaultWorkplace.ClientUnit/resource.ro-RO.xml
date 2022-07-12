@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CaseSectionTitle.Value" Value="Cazuri" />
+			<Item Name="LocalizableStrings.DashboardSectionTitle.Value" Value="Panouri bord" />
+			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="Facturi" />
+			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Factori conducatori" />
+			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="Alimentare" />
+		</Items>
+	</Group>
+</Resources>

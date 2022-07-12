@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CaseSectionTitle.Value" Value="Zgłoszenia" />
+			<Item Name="LocalizableStrings.DashboardSectionTitle.Value" Value="Dashboardy" />
+			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="Faktury" />
+			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Leady" />
+			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="Kanał" />
+		</Items>
+	</Group>
+</Resources>

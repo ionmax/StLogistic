@@ -1,0 +1,29 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "4d58dbda-afbe-4479-85f0-4239a5bb2b07",
+      "A2": "StLogisticsImageList",
+      "A5": "4af8c568-dd1d-4345-ab96-d7c50e92707e",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "7494d9ed-15fd-4a2b-99b7-5651fc414af9",
+      "B8": "7.18.4.1532",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [
+        {
+          "UId": "4b1fd314-d289-f0f8-e384-99a1e22c4b80",
+          "A2": "TurtleImage",
+          "A3": "4d58dbda-afbe-4479-85f0-4239a5bb2b07",
+          "A4": "4d58dbda-afbe-4479-85f0-4239a5bb2b07"
+        }
+      ],
+      "HD11": []
+    }
+  }
+}

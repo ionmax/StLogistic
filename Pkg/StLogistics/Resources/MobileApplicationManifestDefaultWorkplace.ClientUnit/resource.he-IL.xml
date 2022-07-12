@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CaseSectionTitle.Value" Value="מקרים" />
+			<Item Name="LocalizableStrings.DashboardSectionTitle.Value" Value="לוח מחוונים" />
+			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="חשבוניות" />
+			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="הפניות" />
+			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="לוח הודעות" />
+		</Items>
+	</Group>
+</Resources>

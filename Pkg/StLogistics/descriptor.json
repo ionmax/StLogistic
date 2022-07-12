@@ -3,9 +3,14 @@
     "UId": "7494d9ed-15fd-4a2b-99b7-5651fc414af9",
     "PackageVersion": "7.8.0",
     "Name": "StLogistics",
-    "ModifiedOnUtc": "\/Date(1637073946000)\/",
+    "ModifiedOnUtc": "\/Date(1657643671000)\/",
     "Maintainer": "Customer",
     "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      },
       {
         "UId": "613fd913-be03-46ce-909b-f44e4225469e",
         "PackageVersion": "7.8.0",

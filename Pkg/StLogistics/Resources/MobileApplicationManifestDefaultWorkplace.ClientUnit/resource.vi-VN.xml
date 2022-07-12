@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CaseSectionTitle.Value" Value="Các trường hợp" />
+			<Item Name="LocalizableStrings.DashboardSectionTitle.Value" Value="Bảng điều khiển" />
+			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="Các hóa đơn" />
+			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="Tin tức" />
+		</Items>
+	</Group>
+</Resources>
