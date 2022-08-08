@@ -38,7 +38,19 @@ define("StTransportPage", ["css!StTransportPageCSS"], function() {
 						}
 					}
 				}
-			}
+			},
+			"ContactProfile": {
+                "config": {
+                    "schemaName": "StContactProfileSchema",
+                    "isSchemaConfigInitialized": true,
+                    "useHistoryState": false,
+                    "parameters": {
+                        "viewModelConfig": {
+                            masterColumnName: "StMainDriver"
+                        }
+                    }
+                }
+            }
 		}/**SCHEMA_MODULES*/,
 		details: /**SCHEMA_DETAILS*/{
 			"Files": {
@@ -290,6 +302,15 @@ define("StTransportPage", ["css!StTransportPageCSS"], function() {
 		},
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
 		diff: /**SCHEMA_DIFF*/[
+			{
+                "operation": "insert",
+                "parentName": "LeftModulesContainer",
+                "propertyName": "items",
+                "name": "ContactProfile",
+                "values": {
+                    "itemType": Terrasoft.ViewItemType.MODULE
+                }
+            },
 			{
                 "operation": "insert",
                 "parentName": "LeftContainer",

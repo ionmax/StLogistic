@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c683e05a-85f4-42ab-bfcf-d79b33834b3a",
+    "Name": "StContactProfileSchema",
+    "ModifiedOnUtc": "\/Date(1659945610000)\/",
+    "Parent": {
+      "UId": "f79ed96a-7483-4e04-8bce-4f763be2a520",
+      "Name": "ContactProfileSchema"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contact profile schema"
+  }
+}
