@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Voyage" />
+			<Item Name="Columns.Parent.Caption" Value="Parent" />
 			<Item Name="Columns.StDistance.Caption" Value="Distance" />
 			<Item Name="Columns.StDriver.Caption" Value="Driver" />
 			<Item Name="Columns.StDueDate.Caption" Value="Due date" />

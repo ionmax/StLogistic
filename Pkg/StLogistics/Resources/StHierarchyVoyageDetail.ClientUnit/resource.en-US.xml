@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Voyage detail with hierarchy" />
+			<Item Name="LocalizableStrings.AddChildCaption.Value" Value="Add child" />
+			<Item Name="LocalizableStrings.AddParentCaption.Value" Value="Add Parent" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Voyage in transport" />
+		</Items>
+	</Group>
+</Resources>

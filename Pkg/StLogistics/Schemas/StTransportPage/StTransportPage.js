@@ -69,6 +69,14 @@ define("StTransportPage", ["css!StTransportPageCSS"], function() {
 					"masterColumn": "Id"
 				}
 			},
+			"StHierarchyVoyageDetail": {
+				"schemaName": "StHierarchyVoyageDetail",
+				"entitySchemaName": "StVoyage",
+				"filter": {
+					"detailColumn": "StTransport",
+					"masterColumn": "Id"
+				}
+			},
             "StConfigurationDetail": {
                 "schemaName": "StConfigurationDetail",
                 "filter": {
@@ -566,6 +574,17 @@ define("StTransportPage", ["css!StTransportPageCSS"], function() {
 				"parentName": "NotesAndFilesTab",
 				"propertyName": "items",
 				"index": 2
+			},
+			{
+				"operation": "insert",
+				"name": "StHierarchyVoyageDetail",
+				"values": {
+					"itemType": 2,
+					"markerValue": "added-detail"
+				},
+				"parentName": "NotesAndFilesTab",
+				"propertyName": "items",
+				"index": 3
 			}
 		]/**SCHEMA_DIFF*/
 	};

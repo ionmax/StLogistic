@@ -54,6 +54,8 @@ public class StVoyageEntityEventListener : BaseEntityEventListener
 
     private void UpdateTransportMileage(Guid transportId, UserConnection userConnection)
     {
+		if (transportId.IsEmpty())
+			return;
         var esqVoyage = new EntitySchemaQuery(userConnection.EntitySchemaManager, "StTransport");
 		esqVoyage.AddAllSchemaColumns();
 

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3a74286c-9fe2-4db0-b798-2012c2929a3a",
+    "Name": "StHierarchyVoyageDetail",
+    "ModifiedOnUtc": "\/Date(1660116970000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Voyage detail with hierarchy"
+  }
+}
