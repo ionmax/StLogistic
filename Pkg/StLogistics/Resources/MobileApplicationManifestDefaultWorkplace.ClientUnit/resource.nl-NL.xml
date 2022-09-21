@@ -8,6 +8,7 @@
 			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="Facturen" />
 			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Leads" />
 			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.StTransportSectionTitle.Value" Value="Transport" />
 		</Items>
 	</Group>
 </Resources>

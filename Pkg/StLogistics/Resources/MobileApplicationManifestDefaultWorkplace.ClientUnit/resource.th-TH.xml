@@ -7,6 +7,7 @@
 			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="ใบแจ้งหนี้" />
 			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Leads" />
 			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="ฟีด" />
+			<Item Name="LocalizableStrings.StTransportSectionTitle.Value" Value="Transport" />
 		</Items>
 	</Group>
 </Resources>

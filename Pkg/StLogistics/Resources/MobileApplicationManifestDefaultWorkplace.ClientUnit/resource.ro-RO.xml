@@ -7,6 +7,7 @@
 			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="Facturi" />
 			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Factori conducatori" />
 			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="Alimentare" />
+			<Item Name="LocalizableStrings.StTransportSectionTitle.Value" Value="Transport" />
 		</Items>
 	</Group>
 </Resources>

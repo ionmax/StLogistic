@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "ad12cb30-6cbf-4ec7-9dcb-0786894cd4c5",
+    "Name": "StWebSocketTestService",
+    "ModifiedOnUtc": "\/Date(1663748644000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "StWebSocketTestService for mobile"
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileStTransportRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.primaryColumnSetStTransport_caption.Value" Value="General information" />
+			<Item Name="LocalizableStrings.SocialMessageDetailCaptionStTransport_caption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.StVoyageDetailStandardDetailStTransport_caption.Value" Value="Voyage in transport" />
+		</Items>
+	</Group>
+</Resources>

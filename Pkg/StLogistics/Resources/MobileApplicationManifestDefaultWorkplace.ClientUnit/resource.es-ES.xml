@@ -7,6 +7,7 @@
 			<Item Name="LocalizableStrings.InvoiceSectionTitle.Value" Value="Facturas" />
 			<Item Name="LocalizableStrings.LeadSectionTitle.Value" Value="Clientes potenciales" />
 			<Item Name="LocalizableStrings.SocialMessageSectionTitle.Value" Value="Retroalimentación" />
+			<Item Name="LocalizableStrings.StTransportSectionTitle.Value" Value="Transport" />
 		</Items>
 	</Group>
 </Resources>

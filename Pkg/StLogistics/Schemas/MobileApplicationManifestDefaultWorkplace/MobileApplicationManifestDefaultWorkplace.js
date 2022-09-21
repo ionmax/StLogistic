@@ -1,22 +1,94 @@
 {
-	"PreferedFilterFuncType": "Terrasoft.FilterFunctions.SubStringOf",
-	"CustomSchemas": [
-		"StLogisticsConsts"
-	],
-	"Icons": [
-		{
-			"ImageListId": "4d58dbda-afbe-4479-85f0-4239a5bb2b07",
-			"ImageId": "4b1fd314-d289-f0f8-e384-99a1e22c4b80"
-		}
-	],
-	"DefaultModuleImageId": "DB253D3F-42EC-4259-A086-7F9CA16D07E4", //Icon of cases from SysImage table
-	"DefaultModuleImageIdV2": "DB253D3F-42EC-4259-A086-7F9CA16D07E4", //Icon of cases from SysImage table
 	"SyncOptions": {
 		"SysSettingsImportConfig": [],
-		"ModelDataImportConfig": []
+		"ModelDataImportConfig": [
+			{
+				"Name": "StTransport",
+				"SyncColumns": [
+					"StName",
+					"StOwner",
+					"StCarModel",
+					"StCarBrand",
+					"StNumber"
+				]
+			},
+			{
+				"Name": "Contact",
+				"SyncColumns": []
+			},
+			{
+				"Name": "StCarModel",
+				"SyncColumns": []
+			},
+			{
+				"Name": "StCarBrand",
+				"SyncColumns": []
+			},
+			{
+				"Name": "SocialMessage",
+				"SyncColumns": [
+					"EntityId"
+				]
+			},
+			{
+				"Name": "StVoyage",
+				"SyncColumns": [
+					"StTransport",
+					"StNumber"
+				]
+			}
+		]
 	},
-	"Modules": {},
-	"Models": {},
+	"Modules": {
+		"StTransport": {
+			"Group": "main",
+			"Model": "StTransport",
+			"Position": 10,
+			"isStartPage": false,
+			"Title": "StTransportSectionTitle",
+			"Hidden": false
+		}
+	},
+	"CustomSchemas": [
+		"StWebSocketTestService",
+        "StMyAction"
+    ],
+	"Models": {
+		"StTransport": {
+			"RequiredModels": [
+				"StTransport",
+				"Contact",
+				"StCarModel",
+				"StCarBrand",
+				"SocialMessage",
+				"StVoyage"
+			],
+			"ModelExtensions": [],
+			"PagesExtensions": [
+				"MobileStTransportActionsSettingsDefaultWorkplace",
+				"MobileStTransportGridPageSettingsDefaultWorkplace",
+				"MobileStTransportRecordPageSettingsDefaultWorkplace",
+				"StMobileTransportModuleConfig"
+			]
+		},
+		"SocialMessage": {
+			"RequiredModels": [],
+			"ModelExtensions": [],
+			"PagesExtensions": []
+		},
+		"StVoyage": {
+			"RequiredModels": [
+				"StVoyage",
+				"SocialMessage"
+			],
+			"ModelExtensions": [],
+			"PagesExtensions": [
+				"MobileStVoyageActionsSettingsDefaultWorkplace",
+				"MobileStVoyageGridPageSettingsDefaultWorkplace",
+				"MobileStVoyageRecordPageSettingsDefaultWorkplace"
+			]
+		}
+	},
 	"ModuleGroups": {
 		"main": {}
 	},

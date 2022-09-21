@@ -1,0 +1,43 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "67add9c1-415d-40ae-b5a9-846a032aeb7a",
+      "A2": "MobileStTransportRecordPageSettingsDefaultWorkplace",
+      "A5": "4af8c568-dd1d-4345-ab96-d7c50e92707e",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "4102de84-6f02-4ba1-ba5e-3c4ed63ed5df",
+          "A2": "SocialMessageDetailCaptionStTransport_caption",
+          "A3": "67add9c1-415d-40ae-b5a9-846a032aeb7a",
+          "A4": "67add9c1-415d-40ae-b5a9-846a032aeb7a",
+          "A5": "4af8c568-dd1d-4345-ab96-d7c50e92707e"
+        },
+        {
+          "UId": "509e4d48-0cb0-459d-9eda-74dcd9b16590",
+          "A2": "primaryColumnSetStTransport_caption",
+          "A3": "67add9c1-415d-40ae-b5a9-846a032aeb7a",
+          "A4": "67add9c1-415d-40ae-b5a9-846a032aeb7a",
+          "A5": "4af8c568-dd1d-4345-ab96-d7c50e92707e"
+        },
+        {
+          "UId": "78a220e1-fa60-49fb-aae1-187083e1bdac",
+          "A2": "StVoyageDetailStandardDetailStTransport_caption",
+          "A3": "67add9c1-415d-40ae-b5a9-846a032aeb7a",
+          "A4": "67add9c1-415d-40ae-b5a9-846a032aeb7a",
+          "A5": "4af8c568-dd1d-4345-ab96-d7c50e92707e"
+        }
+      ],
+      "B3": [],
+      "B6": "7494d9ed-15fd-4a2b-99b7-5651fc414af9",
+      "B8": "7.18.4.1532",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}
