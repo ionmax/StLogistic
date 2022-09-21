@@ -36,6 +36,15 @@
 					"StTransport",
 					"StNumber"
 				]
+			},
+			{
+				"Name": "StTransportFile",
+				"SyncColumns": [
+					"StTransport",
+					"Type",
+					"Data",
+					"Size"
+				]
 			}
 		]
 	},
@@ -51,7 +60,11 @@
 	},
 	"CustomSchemas": [
 		"StWebSocketTestService",
-        "StMyAction"
+        "StMyAction",
+		"MobileFileAndLinksPreviewController",
+		"MobileFileAndLinksPreviewControllerV2",
+		"MobileFileAndLinksEditController",
+		"MobileFileAndLinksEditControllerV2"
     ],
 	"Models": {
 		"StTransport": {
@@ -61,7 +74,9 @@
 				"StCarModel",
 				"StCarBrand",
 				"SocialMessage",
-				"StVoyage"
+				"StVoyage",
+				"StTransportFile",
+      			"FileType"
 			],
 			"ModelExtensions": [],
 			"PagesExtensions": [
