@@ -4,12 +4,18 @@
 		"ModelDataImportConfig": [
 			{
 				"Name": "StTransport",
+				"SyncFilter": {
+					"property": "StMainDriver",
+					"valueIsMacros": true,
+					"value": "Terrasoft.ValueMacros.CurrentUserContact"
+				},
 				"SyncColumns": [
 					"StName",
 					"StOwner",
 					"StCarModel",
 					"StCarBrand",
-					"StNumber"
+					"StNumber",
+					"StMainDriver"
 				]
 			},
 			{
