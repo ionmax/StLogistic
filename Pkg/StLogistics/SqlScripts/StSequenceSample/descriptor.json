@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "f1737d12-5adc-435c-d610-a7cefc7b175f",
+    "Name": "StSequenceSample",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1666765849000)\/",
+    "DependsOn": []
+  }
+}
