@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.8bf3ffe4-2e24-4112-8afb-bb31c2d90ffe.displayValue" Value="10" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.8bf3ffe4-2e24-4112-8afb-bb31c2d90ffe.value" Value="10" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.RecordColumnValues.Value.3e16aa5c-ba52-40c6-8c17-a498b4cd0cf1.displayValue" Value="15" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.RecordColumnValues.Value.3e16aa5c-ba52-40c6-8c17-a498b4cd0cf1.value" Value="15" />
+			<Item Name="Caption" Value="Business process 4" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

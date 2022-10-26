@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d16cddc-8f74-44bc-a860-6a1cd05c79ef",
+    "Name": "LeadSpecificationDetailV2",
+    "ModifiedOnUtc": "\/Date(1663434454000)\/",
+    "Parent": {
+      "UId": "dca87fab-b050-4832-8dab-573d978562c4",
+      "Name": "LeadSpecificationDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Need feature\"",
+    "DependsOn": []
+  }
+}

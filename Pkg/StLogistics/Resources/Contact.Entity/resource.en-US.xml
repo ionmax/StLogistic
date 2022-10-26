@@ -2,6 +2,8 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="Columns.Currency.Caption" Value="Currency" />
+			<Item Name="Columns.Decimal8.Caption" Value="Decimal8" />
 			<Item Name="Columns.StVoyage.Caption" Value="Voyage" />
 		</Items>
 	</Group>

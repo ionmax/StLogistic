@@ -3,7 +3,7 @@
     "UId": "7494d9ed-15fd-4a2b-99b7-5651fc414af9",
     "PackageVersion": "7.8.0",
     "Name": "StLogistics",
-    "ModifiedOnUtc": "\/Date(1657643671000)\/",
+    "ModifiedOnUtc": "\/Date(1663746222000)\/",
     "Maintainer": "Customer",
     "DependsOn": [
       {
@@ -15,6 +15,11 @@
         "UId": "613fd913-be03-46ce-909b-f44e4225469e",
         "PackageVersion": "7.8.0",
         "Name": "UIv2"
+      },
+      {
+        "UId": "7ecd2886-795a-4933-9ffb-5358f353a555",
+        "PackageVersion": "7.8.0",
+        "Name": "Mobile"
       }
     ]
   }
