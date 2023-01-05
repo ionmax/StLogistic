@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="농축 기본값아이콘" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="강화 기본값아이콘" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="유지" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="()까지 연기하기" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="프로필 완료" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="프로필 완료 비율입니다. 프로필을 완료하는 데 필요한 데이터를 보려면 표시기를 클릭하십시오." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="프로필 완료" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="새 데이터 발견({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="계정 프로필 강화를 위한 새 데이터 표시" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="데이터 강화" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="계정 강화를 위해 새 데이터 검색" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="피드" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="이 작업을 실행하려면 계정에 대해 하나 이상의 소셜 네트워크 프로필을 지정해야 합니다." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="소셜 네트워크 데이터로 업데이트" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="프로세스에 둘 이상의 대기열 요소가 연결되어 있습니다. 프로세스 ID: {0}" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="첨부 파일 및  메모" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="메모" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="이 작업을 실행하려면 계정에 대해 하나 이상의 소셜 네트워크 프로필을 지정해야 합니다" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="재큐" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="항목을 다시 큐에 넣을 수 없습니다. 오류 메시지: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="페이지가 에이전트 데스크톱 대기열 요소에 연결되어 있지 않습니다. 작업이 취소되었습니다." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="항목을 다시 큐에 넣을 수 없습니다" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="다시 대기열에 포함됨" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="권한이 부족하여 이 작업을 수행할 수 없습니다. 시스템 관리자에게 문의하십시오." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="피드를 따라" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="이제 피드를 따르고 있습니다. {0}" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="승인" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="연대표" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="피드 팔로우 해제" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="다음 피드를 중지했습니다. {0}" />
+		</Items>
+	</Group>
+</Resources>

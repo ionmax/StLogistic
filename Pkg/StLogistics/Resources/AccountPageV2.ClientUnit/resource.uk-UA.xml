@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка редагування контрагента " />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Обслуговування" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланувати на дату" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Повнота профілю" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Ступінь наповненості даними профілю. Натисніть на шкалу, щоб подивитися, яких даних не вистачає в профілі." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Повнота профілю" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Знайдено дані ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Показати знайдені дані для збагачення профіля контрагента" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Збагатити дані" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Знайти нові дані для збагачення профіля контрагента" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Стрічка" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Для виконання дії необхідно вказати хоча б один обліковий запис для контрагента в соц. мережах." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Збагатити даними з соц. мереж" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Знайдено більше одного елементу черги пов'язаних з процесом. Ідентифікатор процесу: {0}" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Для виконання дії необхідно вказати хоча б один обліковий запис для контрагента в соц. мережах" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Повернути в чергу" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Помилка повернення елемента в чергу. Повідомлення про помилку: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Сторінку не пов'язана з елементом черги єдиного вікна. Дія скасована." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Помилка при поверненні елемента в чергу" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Елемент успішно повернений в чергу" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="У вас немає прав на виконання даної дії. Зверніться до системного адміністратора." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатись на оновлення стрічки" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ви підписані на оновлення стрічки: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатись від оновлень стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ви відписані від оновлень стрічки: {0}" />
+		</Items>
+	</Group>
+</Resources>
