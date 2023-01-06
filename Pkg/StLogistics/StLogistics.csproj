@@ -150,6 +150,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="Files\cs\StFactoriesExample.cs" />
+    <Compile Include="Files\cs\StOriginalClass.cs" />
+    <Compile Include="Files\cs\StSubstituteClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <!-- ##BpmonlineSDKMarker## -->
