@@ -17,8 +17,6 @@
 			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Pelo menos um perfil de rede social deve ser especificada para a conta para executar esta ação." />
 			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Atualizar com os dados de redes sociais" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mais de uma fila de elementos ligada ao processo. ID do processo: {0}" />
-			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Anexos e notas" />
-			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notas" />
 			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Pelo menos um perfil de rede social deve ser especificada para a conta para executar esta ação" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-enfileirar" />
 			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Não foi possível colocar o item novamente na fila. Mensagem de erro: {0}" />
@@ -28,7 +26,6 @@
 			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Direitos insuficientes para executar esta ação. Entre em contato com o administrador de sistema." />
 			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
 			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Agora está seguindo o feed: {0}" />
-			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Aprovações" />
 			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Linha do tempo" />
 			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Deixar de seguir o feed" />
 			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Deixou de seguir o feed: {0}" />

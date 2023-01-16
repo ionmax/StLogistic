@@ -2,6 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента	" />
 			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
 			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAxNiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMTYiPjxnIGZpbGw9IiM4ZWNiNjAiPjxjaXJjbGUgY3g9IjExLjUiIGN5PSI4LjUiIHI9IjEuOSIvPjxwYXRoIGQ9Ik0xOS40LDZjLTAuNy0zLjQtMy43LTYtNy4zLTZDOS4xLDAsNi42LDEuNiw1LjQsNEMyLjMsNC40LDAsNi45LDAsMTBjMCwzLjMsMi43LDYsNiw2aDEzDQoJCWMyLjgsMCw1LTIuMiw1LTVDMjQsOC40LDIyLDYuMiwxOS40LDZ6IE0xNiwxMy4ybC0yLjUtMS44Yy0wLjYsMC40LTEuMiwwLjYtMiwwLjZDOS42LDEyLDgsMTAuNCw4LDguNVM5LjYsNSwxMS41LDUNCgkJQzEzLjQsNSwxNSw2LjYsMTUsOC41YzAsMC41LTAuMSwxLjEtMC40LDEuNWwyLjQsMS44TDE2LDEzLjJ6Ii8+PC9nPjwvc3ZnPg==" />
 			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />

@@ -51,15 +51,43 @@
             },
 			{
 				"operation": "insert",
-				"name": "CodeSlider",
-				"parentName": "AccountPageGeneralInfoBlock",
+				"name": "SliderGroup",
+				"values": {
+					"caption": {
+						"bindTo": "Resources.Strings.SliderGroupGroupCaption"
+					},
+					"itemType": Terrasoft.ViewItemType.CONTROL_GROUP,
+					"markerValue": "added-group",
+					"items": []
+				},
+				"parentName": "GeneralInfoTab",
 				"propertyName": "items",
+				"index": 5
+			},
+			{
+				"operation": "insert",
+				"name": "SliderGroupLayout",
+				"values": {
+					"itemType": 0,
+					"items": []
+				},
+				"parentName": "SliderGroup",
+				"propertyName": "items",
+				"index": 0
+			},
+			{
+				"operation": "insert",
+				"parentName": "SliderGroupLayout",
+				"propertyName": "items",
+				"name": "DevSliderControl_decimal",
+				"index": 3,
 				"values": {
 					"layout": {
-						"column": 12,
-						"row": 1,
-						"colSpan": 12,
-						"layoutName": "AccountPageGeneralInfoBlock"
+						"colSpan": 6,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 0,
+						"layoutName": "Header"
 					},
 					"generator": "GlbSliderControlGenerator.generateSlider",
 					"controlConfig": {
@@ -69,7 +97,8 @@
 						"value": { "bindTo": "GlbFloat" }
 					}
 				}
-			},
+			}
+
         ]/**SCHEMA_DIFF*/,
         methods: {
             getSource: function() {
